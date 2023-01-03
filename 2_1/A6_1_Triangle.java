@@ -1,0 +1,7 @@
+
+public class Triangle extends Shape implements Movable {
+	public void draw() {
+		System.out.println("»ï°¢Çü ±×¸®±â");
+		System.out.println("»ï°¢Çü ÀÌµ¿ ÁÂÇ¥");
+	}
+}
